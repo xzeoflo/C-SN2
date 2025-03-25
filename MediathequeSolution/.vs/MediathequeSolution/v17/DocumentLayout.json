@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\epsi\\C#\\MediathequeSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D851959-5C7B-4A96-878A-49F6743C87A8}|Mediatheque.CoreTests\\Mediatheque.CoreTests.csproj|c:\\epsi\\c#\\mediathequesolution\\mediatheque.coretests\\servicetests\\mediathequeservicetests\\getnombreobjetshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D851959-5C7B-4A96-878A-49F6743C87A8}|Mediatheque.CoreTests\\Mediatheque.CoreTests.csproj|solutionrelative:mediatheque.coretests\\servicetests\\mediathequeservicetests\\getnombreobjetshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D851959-5C7B-4A96-878A-49F6743C87A8}|Mediatheque.CoreTests\\Mediatheque.CoreTests.csproj|c:\\epsi\\c#\\mediathequesolution\\mediatheque.coretests\\modeltests\\objetdeprettests\\emprunteshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D851959-5C7B-4A96-878A-49F6743C87A8}|Mediatheque.CoreTests\\Mediatheque.CoreTests.csproj|solutionrelative:mediatheque.coretests\\modeltests\\objetdeprettests\\emprunteshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetNombreObjetShould.cs",
+              "DocumentMoniker": "C:\\epsi\\C#\\MediathequeSolution\\Mediatheque.CoreTests\\ServiceTests\\MediathequeServiceTests\\GetNombreObjetShould.cs",
+              "RelativeDocumentMoniker": "Mediatheque.CoreTests\\ServiceTests\\MediathequeServiceTests\\GetNombreObjetShould.cs",
+              "ToolTip": "C:\\epsi\\C#\\MediathequeSolution\\Mediatheque.CoreTests\\ServiceTests\\MediathequeServiceTests\\GetNombreObjetShould.cs*",
+              "RelativeToolTip": "Mediatheque.CoreTests\\ServiceTests\\MediathequeServiceTests\\GetNombreObjetShould.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:11:29.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmprunteShould.cs",
+              "DocumentMoniker": "C:\\epsi\\C#\\MediathequeSolution\\Mediatheque.CoreTests\\ModelTests\\ObjetDePretTests\\EmprunteShould.cs",
+              "RelativeDocumentMoniker": "Mediatheque.CoreTests\\ModelTests\\ObjetDePretTests\\EmprunteShould.cs",
+              "ToolTip": "C:\\epsi\\C#\\MediathequeSolution\\Mediatheque.CoreTests\\ModelTests\\ObjetDePretTests\\EmprunteShould.cs",
+              "RelativeToolTip": "Mediatheque.CoreTests\\ModelTests\\ObjetDePretTests\\EmprunteShould.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:08:53.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

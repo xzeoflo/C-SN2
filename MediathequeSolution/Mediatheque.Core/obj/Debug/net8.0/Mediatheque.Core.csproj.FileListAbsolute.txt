@@ -1,0 +1,11 @@
+C:\epsi\C#\MediathequeSolution\Mediatheque.Core\bin\Debug\net8.0\Mediatheque.Core.deps.json
+C:\epsi\C#\MediathequeSolution\Mediatheque.Core\bin\Debug\net8.0\Mediatheque.Core.dll
+C:\epsi\C#\MediathequeSolution\Mediatheque.Core\bin\Debug\net8.0\Mediatheque.Core.pdb
+C:\epsi\C#\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\Mediatheque.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\epsi\C#\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\Mediatheque.Core.AssemblyInfoInputs.cache
+C:\epsi\C#\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\Mediatheque.Core.AssemblyInfo.cs
+C:\epsi\C#\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\Mediatheque.Core.csproj.CoreCompileInputs.cache
+C:\epsi\C#\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\Mediatheque.Core.dll
+C:\epsi\C#\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\refint\Mediatheque.Core.dll
+C:\epsi\C#\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\Mediatheque.Core.pdb
+C:\epsi\C#\MediathequeSolution\Mediatheque.Core\obj\Debug\net8.0\ref\Mediatheque.Core.dll
